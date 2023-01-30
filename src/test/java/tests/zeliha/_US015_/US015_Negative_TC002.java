@@ -1,4 +1,4 @@
-package tests.zeliha;
+package tests.zeliha._US015_;
 
 import org.openqa.selenium.Keys;
 import org.testng.Assert;
