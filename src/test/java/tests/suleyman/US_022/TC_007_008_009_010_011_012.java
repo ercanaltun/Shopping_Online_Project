@@ -30,7 +30,10 @@ public class TC_007_008_009_010_011_012 {
         ReusableMethods.waitFor(4);
 
         ReusableMethods.getScreenshot("Trendinglowtohigh");
+
     }
+
+
 
     @Test(dependsOnMethods = "US022_TC007")
     public void US022_TC008() throws IOException {
@@ -43,6 +46,7 @@ public class TC_007_008_009_010_011_012 {
 
         ReusableMethods.getScreenshot("Trendinghightolow");
     }
+
 
     @Test(priority = 2)
     public void US022_TC009() throws IOException {
