@@ -25,6 +25,7 @@ public class TC_005_006_007 extends TestBaseRapor {
     //5 - My Account'a gider
     //6 -  Acilan sayfada "ORDERS", "DOWNLOADS", "ADDRESSES", "ACCOUNT DETAILS", "WISHLIST", "LOGOUT" seceneklerinin goruldugunu dogrular
 
+
     //TC006
     //1 - vendor  https://pearlymarket.com/ sayfasina gider
     //2 - Sign in linkine tiklar
@@ -33,6 +34,7 @@ public class TC_005_006_007 extends TestBaseRapor {
     //5 - Acilan sayfadan My Account'a gider
     //6 - Dashboard, Store Manager, Orders, Downloads, Addresses, Account details ,Wishlist goruntulendigini dogrular
     //7 - kapatir
+
 
     //TC007
     //1 - vendor  https://pearlymarket.com/ sayfasina gider
@@ -132,5 +134,7 @@ public class TC_005_006_007 extends TestBaseRapor {
         extentTest.pass("US002_TC007 test bitti");
 
         Driver.quitDriver();
+
     }
+
 }
