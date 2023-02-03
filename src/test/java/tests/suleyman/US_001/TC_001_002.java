@@ -67,5 +67,8 @@ public class TC_001_002 extends TestBaseRapor {
         extentTest.pass("test bitti");
 
         Driver.quitDriver();
+
     }
+
+
 }

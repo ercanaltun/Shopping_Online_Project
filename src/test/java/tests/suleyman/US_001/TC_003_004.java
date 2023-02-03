@@ -101,5 +101,9 @@ public class TC_003_004 extends TestBaseRapor {
         extentTest.pass("US001_TC003_TC004 bitti");
 
         Driver.quitDriver();
+
+
     }
+
+
 }
