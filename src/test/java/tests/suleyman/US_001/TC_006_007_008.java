@@ -83,5 +83,9 @@ public class TC_006_007_008 extends TestBaseRapor {
         extentTest.pass("Gecersiz sifrelerle register negatif test bitti");
 
         Driver.quitDriver();
+
+
     }
+
+
 }
