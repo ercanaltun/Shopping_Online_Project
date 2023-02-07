@@ -18,5 +18,9 @@ public class US012_TC02 extends BeforeAfterMethods {
 
         Assert.assertTrue(pearlyMarketPageErcan.downloadsRemaning.isDisplayed());
         extentTest.info("İndirilen ürünlerin olduğu doğrulandı");
+
+
     }
+
+
 }
