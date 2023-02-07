@@ -54,6 +54,10 @@ public class US011_TC01 extends BeforeAfterMethods {
         ReusableMethods.waitFor(5);
         Assert.assertTrue(selectList.get(3).isSelected());
         extentTest.info("Piece, Carton ve Kg seçeneklerinin secilebilir oldugu test edildi");
+
+
     }
+
+
 
 }

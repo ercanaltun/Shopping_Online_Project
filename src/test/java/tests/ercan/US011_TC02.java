@@ -41,5 +41,9 @@ public class US011_TC02 extends BeforeAfterMethods {
         ReusableMethods.waitFor(1);
         Assert.assertTrue(pearlyMarketPageErcan.productSuccessfullyPublishedText.isDisplayed());
         extentTest.info("Units Per Piece alt kısmında productSuccessfullyPublished text'i görüldü");
+
+
     }
+
+
 }
