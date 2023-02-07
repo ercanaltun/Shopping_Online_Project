@@ -15,5 +15,9 @@ public class US012_TC01 extends BeforeAfterMethods {
         pearlyMarketPageErcan.ordersVisible.isDisplayed();
         extentTest.info("Siparişler edilmiş ürünlerin sıralandığını dogrulandı");
 
+
+
     }
+
+
 }

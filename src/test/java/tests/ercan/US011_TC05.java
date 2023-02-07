@@ -47,6 +47,11 @@ public class US011_TC05 extends BeforeAfterMethods {
         ReusableMethods.waitFor(3);
         ReusableMethods.getScreenshot(pearlyMarketPageErcan.minOrder.getText());
         extentTest.info("productSuccessfullyPublished text'i görüldü ve negatif değer kabul ettiği doğrulandı ");
+
+
     }
+
+
+
 
 }

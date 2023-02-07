@@ -52,7 +52,10 @@ public class US011_TC04 extends BeforeAfterMethods {
         extentTest.info("productSuccessfullyPublished text'i görüldü ve negatif değer kabul ettiği doğrulandı ");
 
 
+
+
     }
+
 
 
 }
