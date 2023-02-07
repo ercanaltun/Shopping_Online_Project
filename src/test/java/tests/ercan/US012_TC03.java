@@ -23,5 +23,11 @@ public class US012_TC03 extends BeforeAfterMethods {
         Assert.assertEquals(pearlyMarketPageErcan.billingAddresses.getText(), pearlyMarketPageErcan.shippingAddresses.getText());
         extentTest.info("Billing Address(Faruta adresi) ile Shipping Address(Teslimat adresi)'in aynı olduğu doğrulandı");
 
+
+
+
+
     }
+
+
 }

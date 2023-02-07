@@ -57,5 +57,9 @@ public class US012_TC04 extends TestBaseRapor {
         pearlyMarketPageErcan.emailBox.sendKeys(ConfigReader.getProperty("projeEmail"), Keys.ENTER);
 
 
+
+
     }
+
+
 }
