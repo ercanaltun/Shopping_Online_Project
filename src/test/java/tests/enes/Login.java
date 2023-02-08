@@ -16,5 +16,8 @@ public class Login {
         pearlyMarketPage.emailBox.sendKeys(ConfigReader.getProperty("projeEmail"));
         pearlyMarketPage.password.sendKeys(ConfigReader.getProperty("projePassword"));
         pearlyMarketPage.ikinciSignIn.click();
+
     }
+
+
 }

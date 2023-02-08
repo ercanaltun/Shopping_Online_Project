@@ -229,5 +229,10 @@ public class US004_PositiveTests extends TestBaseRapor {
         extentTest.pass("vendor Clear cart ile rakamlar silinebilmeli.");
 
         Driver.closeDriver();
+
+
     }
+
+
+
 }
