@@ -100,5 +100,9 @@ public class ConfirmAccount {
 
         windowList = new ArrayList<>(Driver.getDriver().getWindowHandles());
         Driver.getDriver().switchTo().window(windowList.get(2));
+
+
     }
+
+
 }
