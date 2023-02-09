@@ -31,5 +31,10 @@ public class US016_TC1003 extends TestBaseRapor {
         Assert.assertTrue(pageN.newCustomerAdded.isDisplayed());
         extentTest.pass("Musteri basariyla kaydedildi");
         Driver.closeDriver();
+
+
     }
+
+
+
 }

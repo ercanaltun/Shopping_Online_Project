@@ -43,5 +43,11 @@ public class US017_TC1004 extends TestBaseRapor {
        Assert.assertTrue(pageN.customerSuccessfullySaved.isDisplayed());
        extentTest.pass("Billing address bilgileri girilerek musteri basariyla eklendi");
         Driver.closeDriver();
+
+
+
     }
+
+
+
 }
