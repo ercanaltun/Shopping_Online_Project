@@ -48,5 +48,10 @@ public class US016_TC1002 extends TestBaseRapor {
         extentTest.pass("Dosyalar basariyla indirildi");
         Driver.closeDriver();
 
+
+
     }
+
+
+
 }
