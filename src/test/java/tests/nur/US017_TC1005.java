@@ -39,5 +39,11 @@ public class US017_TC1005 extends TestBaseRapor {
         extentTest.info("Shipping ve Billing adres bilgileri ayni olarak musteri basariyla kaydedildi");
         Driver.closeDriver();
 
+
+
+
     }
+
+
+
 }
