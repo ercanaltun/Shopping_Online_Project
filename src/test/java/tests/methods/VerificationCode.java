@@ -71,5 +71,11 @@ public class VerificationCode {
         Driver.getDriver().switchTo().window(windowList.get(0));
 
         page.verificationCodeBox.sendKeys(code2); //verification code box'a email'e gelen  kodu gonder
+
+
     }
+
+
+
+
 }

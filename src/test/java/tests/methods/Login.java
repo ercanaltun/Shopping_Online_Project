@@ -16,5 +16,11 @@ public class Login {
         page.emailBox.sendKeys(ConfigReader.getProperty("projeEmail"));
         page.passwordBox.sendKeys(ConfigReader.getProperty("projePassword"));
         page.ikinciSignIn.click();
+
+
+
     }
+
+
+
 }
