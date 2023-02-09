@@ -33,6 +33,12 @@ public class US016_TC1001 extends TestBaseRapor {
         }
         extentTest.pass("Manage Customers bilgileri basariyla goruntulendi.");
         Driver.closeDriver();
+
+
+
     }
+
+
+
 
 }
