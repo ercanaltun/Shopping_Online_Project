@@ -129,6 +129,13 @@ public class Us_19_TestCase_19_01_02 extends TestBaseRapor {
         extentTest.pass("No data in the table yazisi ile karsilasildi. Takipci islemleri tanimlanamadi");
 
 
+
+
+
     }
+
+
+
+
 
 }

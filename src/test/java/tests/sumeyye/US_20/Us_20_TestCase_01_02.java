@@ -126,6 +126,11 @@ public class Us_20_TestCase_01_02 extends TestBaseRapor {
             extentTest.pass("Kullanicilarin verdikleri rate ve comment tarihi tanimlandi");
 
 
+
+
+
+
+
         }
 
 
