@@ -320,6 +320,11 @@ public class US013_A_PositiveTC extends TestBaseRapor {
         extentTest.pass(" Show on store secilmistir");
 
 
+
+
+
     }
+
+
 
 }
