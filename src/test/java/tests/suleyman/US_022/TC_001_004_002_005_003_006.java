@@ -201,5 +201,10 @@ public class TC_001_004_002_005_003_006 extends TestBaseRapor {
         extentTest.pass("US022_TC001-TC002-TC003-TC004-TC005-TC006");
         ReusableMethods.waitFor(2);
         Driver.quitDriver();
+
+
+
     }
+
+
 }
