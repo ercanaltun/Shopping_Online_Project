@@ -142,6 +142,10 @@ public class US013_Negative_TC003 extends TestBaseRapor {
 
         extentTest.pass("US013 Negatif Test 03 tamamlandi");
 
+
+
     }
+
+
 
 }
