@@ -122,6 +122,11 @@ public class US014_Negative_TC002 extends TestBaseRapor {
         extentTest.info("Sayfa kapatildi");
 
         extentTest.pass("US014 Negatif Test 02 tamamlandi");
+
+
+
     }
+
+
 
 }
